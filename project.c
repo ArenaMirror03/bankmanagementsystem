@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 void kaushik_display();
+
 int main()
 {
 
